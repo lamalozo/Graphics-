@@ -1,0 +1,3 @@
+C:/Users/lama zakaria/CLionProject/untitled17/cmake-build-debug/CMakeFiles/untitled17.dir
+C:/Users/lama zakaria/CLionProject/untitled17/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lama zakaria/CLionProject/untitled17/cmake-build-debug/CMakeFiles/rebuild_cache.dir
